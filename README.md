@@ -1,6 +1,8 @@
 array-indexofobject
 ===================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/danmactough/node-array-indexofobject.svg)](https://greenkeeper.io/)
+
 Like Array#indexOf but for objects used like hashes
 
 ## Examples:
